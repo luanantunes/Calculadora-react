@@ -1,4 +1,4 @@
-🧮 Calculadora React
+ Calculadora React
 
 Uma calculadora moderna desenvolvida com React, focada em design limpo e experiência do usuário.
 
@@ -8,7 +8,7 @@ Uma calculadora moderna desenvolvida com React, focada em design limpo e experi�
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Operações básicas: soma, subtração, multiplicação e divisão
 - Histórico dos últimos cálculos (clicável)
@@ -18,7 +18,7 @@ Uma calculadora moderna desenvolvida com React, focada em design limpo e experi�
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **React 18** — biblioteca principal
 - **React Hooks** — useState, useEffect, useCallback
@@ -27,7 +27,7 @@ Uma calculadora moderna desenvolvida com React, focada em design limpo e experi�
 
 ---
 
-## 🚀 Como rodar localmente
+##  Como rodar localmente
 
 ```bash
 # Clone o repositório
@@ -47,7 +47,7 @@ Acesse em: `http://localhost:3000`
 
 ---
 
-## 💡 O que aprendi com esse projeto
+##  O que aprendi com esse projeto
 
 - Gerenciamento de estado com múltiplos `useState`
 - Como usar `useCallback` para otimizar funções
@@ -56,6 +56,6 @@ Acesse em: `http://localhost:3000`
 
 ---
 
-## 📬 Contato
+##  Contato
 
 Feito por Luan Lima
